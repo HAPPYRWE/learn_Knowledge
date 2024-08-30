@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-SSO/xt-SSO-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-service-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xt-web/xt-web-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
