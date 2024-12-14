@@ -21,13 +21,13 @@ public class NewsController {
     }
 
     @PostMapping("detail")
-//    @Cache(time = 30 * 1000, name = "News")
+    @Cache(time = 30 * 1000, name = "News")
     public CallResult news(@RequestBody NewsParam newsParam) {
         return newsService.findNewsById(newsParam);
     }
 
     @PostMapping("newsDetailList")
-//    @Cache(time = 30 * 1000, name = "News")
+    @Cache(time = 30 * 1000, name = "News")
     public CallResult newsDetailList(@RequestBody NewsParam newsParam) {
         return newsService.newsDetailList(newsParam);
     }
